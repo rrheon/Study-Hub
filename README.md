@@ -8,7 +8,7 @@
 | 개발 기간 | 2023.10.07 ~ 2024.03.01 |
 | 개발 인원 | iOS(2), Android(2), Server(2), Designer(1) |
 | 담당 역할 | iOS Developer |
-| 사용 기술 | Swift, UIKit, Snapkit, Keychain, Moya, Kingfisher |
+| 사용 기술 | Swift, UIKit, Snapkit, Keychain, Moya, Kingfisher, RxSwift |
 
 ## 담당 업무
 
